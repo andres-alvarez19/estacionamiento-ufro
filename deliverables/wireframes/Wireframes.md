@@ -1,13 +1,11 @@
 
-![[Inicio de sesion.png]]
-![[Dashboard.png]]
-
-![[Parking map.png]]
-
-![[Parking map-1.png]]
-![[History.png]]
-![[Payment methods.png]]
-![[Profile.png]]
-![[Reservar.png]]
-![[Settings.png]]
-![[Vehicle.png]]
+![Inicio de sesion](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Inicio%20de%20sesion.png)
+![Dashboard](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Dashboard.png)
+![Parking map](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Parking%20map.png)
+![Parking map-1](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Parking%20map-1.png)
+![History](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/History.png)
+![Payment methods](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Payment%20methods.png)
+![Profile](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Profile.png)
+![Reservar](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Reservar.png)
+![Settings](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Settings.png)
+![Vehicle](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Vehicle.png)
