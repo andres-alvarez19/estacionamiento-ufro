@@ -29,10 +29,19 @@ At UFRO, users currently face difficulties when attempting to park on campus due
 
 ## Scope
 [UX personas](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/Ux%20personas.md)
+
 ## Structure
 [Brenchmark](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/Brenchmark/Benchmark.md)
 ![Sitemap](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Sitemap.png)
+
 ## Skeleton
+
+### Sketch
+![WhatsApp Image 2025-05-28 at 12 03 11 PM](https://github.com/user-attachments/assets/6e1a42fa-2c1d-41b7-b12f-ef04cdcfc03d)
+![WhatsApp Image 2025-05-28 at 12 03 10 PM](https://github.com/user-attachments/assets/ae7f9a0c-bd08-4a29-9c7f-9acd82fef59b)
+
+### Wireframes
 [Wireframes](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/wireframes/Wireframes.md)
+
 ## Surface
 [Mockups](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Mockups/mockups.md)
