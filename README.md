@@ -25,13 +25,13 @@ At UFRO, users currently face difficulties when attempting to park on campus due
 - Provide administrative tools for analytics and space management.
 
 ## Strategy
-
+[[https://github.com/andres-alvarez19/estacionamiento-ufro/tree/main/deliverables]](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Value%20Proposition%20Canvas.png)
 
 ## Scope
-
+[https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/Ux%20personas.md]
 ## Structure
-
+https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/Brenchmark/Benchmark.md
+https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Sitemap.png
 ## Skeleton
-
 
 ## Surface
