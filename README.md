@@ -28,7 +28,11 @@ At UFRO, users currently face difficulties when attempting to park on campus due
 ![Value Canvas](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Value%20Proposition%20Canvas.png)
 
 ## Scope
-[UX personas](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/Ux%20personas.md)
+For the context of the proyect, we have created 3 UX Personas to further understand what the goals of our users might be.
+
+![UX Persona 1](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/UXPersona1.jpg)
+![UX Persona 2](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/UXPersona2.jpg)
+![UX Persona 3](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/UXPersona3.jpg)
 
 ## Structure
 [Brenchmark](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/Brenchmark/Benchmark.md)
