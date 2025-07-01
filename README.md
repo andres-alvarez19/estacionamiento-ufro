@@ -45,3 +45,15 @@ At UFRO, users currently face difficulties when attempting to park on campus due
 
 ## Surface
 [Mockups](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Mockups/mockups.md)
+
+## Initial Figma Prototype
+[Figma design & prototype v1](https://www.figma.com/design/cnUjrah5jbOEpTv6TfGex0/Estacionamiento)
+
+## Heuristics & Accesibility
+(heuristica (? )
+
+## Updated Figma Prototype
+(link del nuevo figma)
+
+## Reasoning for changes
+(chamullo)
