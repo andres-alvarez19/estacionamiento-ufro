@@ -46,7 +46,7 @@ For the context of the proyect, we have created 3 UX Personas to further underst
 
 ### Sitemap
 
-![Sitemap](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Sitemap.png)
+![Sitemap](https://github.com/user-attachments/assets/3dbaa369-bbce-49d5-876c-9eebc0eebf5e)
 
 ## Skeleton
 
@@ -68,17 +68,24 @@ For the context of the proyect, we have created 3 UX Personas to further underst
 
 
 ## Surface
+[Mockups V1](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/deliverables/Mockups/mockups.md)
 
-![Inicio de sesion](https://github.com/user-attachments/assets/a114958b-136f-4550-b575-cc21c53e3888)
-![Dashboard](https://github.com/user-attachments/assets/af8be620-8add-40de-977e-d7709738204a)
-![Parking map](https://github.com/user-attachments/assets/2a9b15ce-ceeb-45aa-8f15-f94878e75941)
-![Parking map-1](https://github.com/user-attachments/assets/6e73e4e9-0a3a-40c9-a40a-e97c014da579)
-![Payment methods](https://github.com/user-attachments/assets/56204b84-d87d-478c-b7af-a2ca93ff0c0b)
-![Vehicle](https://github.com/user-attachments/assets/344bc3e3-a5b7-4a66-999e-8d9f353f8a4c)
-![Reservar](https://github.com/user-attachments/assets/4f380db1-4388-487c-b628-7e9993f20519)
-![Profile](https://github.com/user-attachments/assets/fe3ebd4b-5952-4987-b399-f60a660631a4)
-![History](https://github.com/user-attachments/assets/3b856b46-7937-4ca0-82fa-28aa16f9a913)
-![Settings](https://github.com/user-attachments/assets/e6e03a6b-2ea1-4942-ab08-f5deb525eb9a)
+### Mockup final
+
+![Inicio de sesion](https://github.com/user-attachments/assets/bbdc73f5-a26c-4139-9fe6-e0db97bfda87)
+![Dashboard](https://github.com/user-attachments/assets/eadf2e1b-e3c4-4e87-8fa3-6fa7b6fe1432)
+![Parking map-1](https://github.com/user-attachments/assets/d9855faa-3226-4079-afb0-bed9e86070c5)
+![Parking map](https://github.com/user-attachments/assets/5532be6d-05d8-40a8-9002-24939c006eb9)
+![Reservar](https://github.com/user-attachments/assets/a4442844-a8d0-4255-b70f-80ea4ee7455e)
+![Profile](https://github.com/user-attachments/assets/fed0cf09-e244-4abe-bfaa-921feba6c0f6)
+![History](https://github.com/user-attachments/assets/3452443f-03e3-48b7-ba8f-7f42afc034df)
+![Edit Profile](https://github.com/user-attachments/assets/bdca65e4-4ae4-418c-a9d5-a1ad53fc9078)
+![Add Vehicle](https://github.com/user-attachments/assets/94e0986b-1462-4ccc-88da-029e30e0c305)
+![Vehicle](https://github.com/user-attachments/assets/1f611532-ae68-4952-9109-03010cb45df9)
+![Settings](https://github.com/user-attachments/assets/4b861147-9db2-4074-803d-2fc500b2c5d0)
+![Profile details](https://github.com/user-attachments/assets/739a9e3d-1530-4782-8aeb-04a7364b0471)
+![Payment methods](https://github.com/user-attachments/assets/d8bd0afe-56ee-460f-84fd-58021c292b75)
+
 
 ## Figma Prototype
 
@@ -96,8 +103,12 @@ For the context of the proyect, we have created 3 UX Personas to further underst
 
 
 ## Heuristics & Accesibility
-(heuristica (? )
+Unfortunately, the heuristic could not be incorporated because our counterpart did not provide the required information.
 
 ## Reasoning for changes
 
-
+The changes implemented from version 1 to the final release were made based on the feedback received during the initial presentation. Key modifications include:
+- Removal of the role selector on the login screen.
+- Omission of the area selection option when making a reservation.
+- Addition of a summary displaying the estimated cost of the reservation.
+In addition to these improvements, the remaining screens were finalized to ensure full navigability of the application.
