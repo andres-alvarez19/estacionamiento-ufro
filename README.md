@@ -30,9 +30,9 @@ At UFRO, users currently face difficulties when attempting to park on campus due
 ## Scope
 For the context of the proyect, we have created 3 UX Personas to further understand what the goals of our users might be.
 
-![UX Persona 1](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/UXPersona1.jpg)
-![UX Persona 2](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/UXPersona2.jpg)
-![UX Persona 3](https://github.com/andres-alvarez19/estacionamiento-ufro/blob/main/UX%20personas/UXPersona3.jpg)
+![UX Persona 1](https://github.com/user-attachments/assets/0effe138-e61c-4aba-9e4c-762e1a8eb952)
+![UX Persona 2](https://github.com/user-attachments/assets/a242c078-ac9d-44ff-9635-0e1d222a7875)
+![UX Persona 3](https://github.com/user-attachments/assets/77b59717-b943-4d75-8eeb-92c585b80ad0)
 
 ## Structure
 ### Benchmark
