@@ -1,224 +1,120 @@
+Searching for industry standards, we compiled the following applications:
 
-Buscando encontrar los estándares de la industria recopilamos las siguientes aplicaciones:
+## SimplePark.cl Platform (Local Reference)
 
+### Key Features:
 
-## Plataforma SimplePark.cl (Referencia local)
+* Specification of parking duration by schedule
+* Ability to modify or extend the reservation
+* Entry of a specific zone code
 
-### Funcionalidades clave:
+## References from Other Universities
 
-- Especificación del tiempo de estadía según horario
-    
-
-- Capacidad de modificar o extender la reserva
-    
-
-- Ingreso de código de zona específica
-    
-
-  
-
-## Referencias de Otras Universidades
-
-### Sistemas Internacionales
+### International Systems
 
 #### Park USC (University of Southern California)
 
-- Estado en tiempo real de los estacionamientos
-    
-
-- Registra ubicación del usuario en segundo plano
-    
-
-- Sistema de notificaciones integrado
-    
+* Real-time parking status
+* Background user-location tracking
+* Integrated notification system
 
 #### ParkMobile
 
-##### Funciones relevantes:
+##### Relevant Functions:
 
-- Reserva en tiempo real
-    
+* Real-time reservation
+* Integrated payment system
+* Availability maps
+* Automatic notifications
 
-- Sistema de pago integrado
-    
+##### Main Difference:
 
-- Mapas de disponibilidad
-    
-
-- Notificaciones automáticas
-    
-
-  
-
-##### Diferencia principal:
-
-- Enfoque en pago por hora
-    
-
-- Menos énfasis en prioridades por tipo de usuario
-    
+* Hourly payment focus
+* Less emphasis on user-type prioritization
 
 #### HonkMobile
 
-##### Funciones relevantes:
+##### Relevant Functions:
 
-- Reservas flexibles (hora, día, semana, mes)
-    
+* Flexible reservations (hour, day, week, month)
+* Differentiation by user type (staff, students, etc.)
+* Registration of multiple license plates (one in use at a time)
+* Assignment by zone rather than by specific parking spot
 
-- Diferenciación por tipo de usuario (funcionarios, estudiantes, etc.)
-    
+### National Systems
 
-- Registro de múltiples patentes (pero uso de una a la vez)
-    
+* Generally limited in digital features
+* Predominantly traditional payment systems
+* Minimal digitalization in most cases
 
-- Asignación por zona, no por estacionamiento específico
-    
+## General Parking Market
 
-  
+### International Public Solutions
 
-### Sistemas Nacionales
+#### SpotHero (USA)
 
-- Generalmente limitados en funcionalidades digitales
-    
-
-- Predominan sistemas de pago tradicionales
-    
-
-- Escasa digitalización en la mayoría de casos
-    
-
-## Mercado General de Estacionamientos
-
-### Soluciones Públicas Internacionales
-
-#### SpotHero (EE.UU.)
-
-- Reservas con fecha y hora específicas
-    
-
-- Visualización de diferentes ubicaciones disponibles
-    
-
-- Comparación de precios por ubicación
-    
+* Reservations for specific date and time
+* Display of multiple available locations
+* Price comparison by location
 
 #### EasyPark
 
-- Detección automática de zona de estacionamiento
-    
+* Automatic detection of parking zone
+* Pre-expiry time notifications
+* Pay-as-you-go system (even if time is exceeded)
 
-- Notificaciones previas al vencimiento del tiempo
-    
-
-- Sistema de pago por uso exacto (incluso si se excede el tiempo)
-    
-
-  
-
-### Soluciones Privadas Internacionales
+### International Private Solutions
 
 #### Skidata
 
-- Eliminación de tickets físicos
-    
-
-- Sistema basado en reconocimiento de patentes
-    
-
-- Opciones de pago mediante patente o aplicación móvil
-    
-
-- Mapas con ubicación precisa del vehículo estacionado
-    
+* Elimination of physical tickets
+* License-plate recognition-based system
+* Payment options via plate or mobile app
+* Maps showing the precise location of the parked vehicle
 
 #### Smart Parking (Bosch)
 
-- Implementación de IoT para monitoreo en tiempo real
-    
+* IoT implementation for real-time monitoring
+* Automated detection system
 
-- Sistema de detección automatizada
-    
+### Trends in the Chilean Market
 
-  
+* Primary focus: Access control over availability
+* Priority: Prevention of misuse (e.g., visitors in restricted zones)
+* Transparency: Limited access to real-time data
 
-### Tendencias en el Mercado Chileno
+## Conclusions and Opportunities
 
-Enfoque principal: Control de acceso más que disponibilidad
+**Prioritization by Profile:**
 
-  
+* Staff with recurring reservations
+* Students with fixed schedules
 
-Prioridad: Prevención de uso indebido (ej: visitantes en zonas restringidas)
+**Academic Integration:**
 
-  
+* Synchronization with class timetables
+* Integration with existing university systems
 
-Transparencia: Limitado acceso a datos en tiempo real
+**Aspects to Avoid:**
 
-  
+* Complex payment models
+* Reliance on expensive hardware
+* Non-intuitive systems for occasional users
 
-## Conclusiones y Oportunidades
+## Industry Standards
 
-Priorización por perfil:
+**Notification System:**
 
-- Funcionarios con reservas recurrentes
-    
+* Reservation reminders
+* Time-limit alerts
 
-- Estudiantes con horarios específicos
-    
+**Reservation System:**
 
-  
+* Hourly for public parking
+* Monthly and hourly for university contexts
 
-Integración académica:
+**User Experience:**
 
-- Sincronización con horarios de clases
-    
-
-- Vinculación con sistemas universitarios existentes
-    
-
-  
-
-Aspectos a Evitar:
-
-- Modelos de pago complejos
-    
-
-- Dependencia de hardware costoso
-    
-- Sistemas poco intuitivos para usuarios ocasionales
-    
-
-  
-
-## Estándares de la Industria
-
-- Sistema de notificaciones:
-    
-
-- Recordatorios de reservas
-    
-
-- Alertas de tiempo límite
-    
-
-  
-
-Sistema de reservas:
-
-- Por hora para estacionamientos públicos
-    
-
-- Mensuales y por hora para contextos universitarios
-    
-
-  
-
-Experiencia de usuario:
-
-- Interfaces intuitivas
-    
-- Procesos simplificados
-    
-- Acceso multiplataforma
-    
-
-**
+* Intuitive interfaces
+* Streamlined processes
+* Cross-platform access
