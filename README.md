@@ -42,7 +42,7 @@ For the context of the proyect, we have created 3 UX Personas to further underst
 
 ### Customer Journey Map
 
-![User Journey Map](https://github.com/user-attachments/assets/9f7dc0d7-eec3-4391-967c-e1fa07ad560c)
+![Customer Journey Map](https://github.com/user-attachments/assets/c4e3d9cf-d491-437d-849a-5c190fe414f2)
 
 ### Sitemap
 
