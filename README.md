@@ -89,17 +89,17 @@ For the context of the proyect, we have created 3 UX Personas to further underst
 
 ## Figma Prototype
 
-[Prototype v1](https://www.figma.com/proto/dDiHP3pFwrYQTXsImSc0D3/Estacionamiento--Copia-?t=3KfREQraM2P2nw9D-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2)
+[Prototype v1](https://www.figma.com/proto/dDiHP3pFwrYQTXsImSc0D3/Estacionamiento--Copia-?t=kIuuChnNYRwbB7uA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2)
 
-[Final prototype](https://www.figma.com/proto/cnUjrah5jbOEpTv6TfGex0/Estacionamiento?node-id=1-2&p=f&t=erOYt2RysL5ffHaq-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+[Final prototype](https://www.figma.com/proto/cnUjrah5jbOEpTv6TfGex0/Estacionamiento?t=0HZotCosbS20blOq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2)
 
 ## Figma design
 
-[Figma design v1 (wireframe)](https://www.figma.com/design/9MYECD2RUertoHZJaU0aHO/Estacionamiento--Copia-?t=SuIYPc0TQyv1yyYb-0)
+[Figma design v1 (wireframe)](https://www.figma.com/design/9MYECD2RUertoHZJaU0aHO/Estacionamiento--Copia-?t=YDW704RKD1dITQdf-1)
 
-[Figma design v2](https://www.figma.com/design/dDiHP3pFwrYQTXsImSc0D3/Estacionamiento--Copia-?t=3KfREQraM2P2nw9D-0)
+[Figma design v2](https://www.figma.com/design/dDiHP3pFwrYQTXsImSc0D3/Estacionamiento--Copia-?t=YDW704RKD1dITQdf-1)
 
-[Final design](https://www.figma.com/design/cnUjrah5jbOEpTv6TfGex0/Estacionamiento?node-id=0-1&p=f&t=erOYt2RysL5ffHaq-0)
+[Final design](https://www.figma.com/design/cnUjrah5jbOEpTv6TfGex0/Estacionamiento?t=YDW704RKD1dITQdf-1)
 
 
 ## Heuristics & Accesibility
