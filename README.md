@@ -2,8 +2,8 @@
 
 ## 👥 Team
 
-- Andrés Álvarez
-- Nahuel Catrileo
+- Andrés Álvarez (Project Manager/Designer)
+- Nahuel Catrileo (Analyst/Presenter)
 
 ## 📱 Project
 
