@@ -73,7 +73,7 @@ For the context of the proyect, we have created 3 UX Personas to further underst
 ### Mockup final
 
 ![Inicio de sesion](https://github.com/user-attachments/assets/bbdc73f5-a26c-4139-9fe6-e0db97bfda87)
-![Dashboard](https://github.com/user-attachments/assets/eadf2e1b-e3c4-4e87-8fa3-6fa7b6fe1432)
+![Dashboard](https://github.com/user-attachments/assets/5311a8b8-5741-4de6-8825-0c7d8857fd47)
 ![Parking map-1](https://github.com/user-attachments/assets/d9855faa-3226-4079-afb0-bed9e86070c5)
 ![Parking map](https://github.com/user-attachments/assets/5532be6d-05d8-40a8-9002-24939c006eb9)
 ![Reservar](https://github.com/user-attachments/assets/a4442844-a8d0-4255-b70f-80ea4ee7455e)
@@ -103,7 +103,35 @@ For the context of the proyect, we have created 3 UX Personas to further underst
 
 
 ## Heuristics & Accesibility
-Unfortunately, the heuristic could not be incorporated because our counterpart did not provide the required information.
+
+Based on the external heuristic evaluation, we have refined our original mockups as follows:
+
+- Streamlined login: Removed the manual role selector; the app now remembers or infers the user’s role to eliminate an unnecessary step.
+
+- Clear separation of Home vs. Map: “Home” emphasizes statistics and quick-action buttons, while “Map” focuses exclusively on interactive campus mapping, color-coded availability, and filtering by zone and time.
+
+- List View reservation cancellation: In the “List View,” active reservations are now clearly indicated and can be cancelled directly from the list.
+
+- New Profile & Notifications screens: Added dedicated screens for user profile management and in-app notifications, accessible via the bottom navigation.
+
+- Unified visual system: Established a consistent grid, margin, and typography scale across all screens, and defined button styles (primary, secondary, tertiary) for clear visual hierarchy.
+
+### Accesibility
+In the Final Mockups section, the following accessibility requirements are met in accordance with WCAG 2.1 Level AA:
+
+- High contrast ratio
+> Text and interactive elements use dark-on-light and light-on-dark combinations that exceed the 4.5:1 minimum contrast ratio for normal text, ensuring legibility for users with low vision or in bright environments.
+
+- Readable typography and spacing
+> Body text is set at a minimum of 16 px (or equivalent), with generous line-height and margins, supporting users with visual or cognitive impairments.
+
+- Adequate touch target size
+> All primary buttons and navigation icons occupy at least 48 × 48 dp, meeting Apple’s and Android’s guidelines for users with limited motor control.
+
+- Icon labels and semantic clarity
+> Every icon is paired with a visible text label (e.g., “Home,” “Map,” “History”), so functionality isn’t conveyed by shape or color alone—benefiting users with color blindness or cognitive challenges.
+
+By incorporating these elements—contrast, typography, touch targets and clear labels—the design delivers a more inclusive and accessible experience for all users.
 
 ## Reasoning for changes
 
